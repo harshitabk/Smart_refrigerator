@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "22091360366",
+    "firebase_url": "https://backup-e70ba.firebaseio.com",
+    "project_id": "backup-e70ba",
+    "storage_bucket": "backup-e70ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22091360366:android:5e92023b40803538",
+        "android_client_info": {
+          "package_name": "com.harshita.sit.backup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22091360366-ana7khghsa9g3kdsde5k95ltcljeu849.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshita.sit.backup",
+            "certificate_hash": "9e12fc61c786db813629daf4a0191ec352742be7"
+          }
+        },
+        {
+          "client_id": "22091360366-d6eigtaaonbajbrvsics58sbfr12tjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpKpe_T2sm2LEfK69LWN3cuBHYm2x3LA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22091360366-d6eigtaaonbajbrvsics58sbfr12tjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
